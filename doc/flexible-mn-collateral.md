@@ -18,10 +18,10 @@ defined below and block rewards for MN will be paid according to the payment sch
 ### Integration
 The feature will be built in its own branch and that codebase must be always downwards compatible with the current mainnet production code. This own branch will be merged to master when tested positive to be working (MN payments work, its downward compatible still etc.).
 
-This enable users to upgrade their wallets in advance to the new release with this feature and just "flip the switch" (activate the spork) to make it active on mainnet. 
+This enables users to upgrade their wallets in advance to the new release with this feature and just "flip the switch" (activate the spork) to make it active on mainnet. 
 
 ### Masternode collateral ranges
-* The collateral can be chosen in the range listed below with collateral decimals being not considered (cut from the calculation) - to stop people from taking their nodes offline too often
+The collateral can be chosen in the range listed below with collateral decimals being not considered (cut from the calculation) - to stop people from taking their nodes offline too often
 for changing the collateral which would make the network less secure.
 
 Min MN collateral: 3 000 OHMC (?)<br/>
