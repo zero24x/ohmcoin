@@ -1,9 +1,12 @@
+
 Flexible MN collateral feature
 =====================
-* MN means masternode
+
 
 Introduction
 ---------------------
+<sub>* Glossary: MN means masternode</sub>
+
 This feature allows MN holders to decide themselves in a predefined range how many coins they want locked in as the collateral of their MN. The more coins are locked in one specific node the higher its MN rewards will be.
 This functions is similar to tiered MNs but provides more flexibility since users can use a wide range of possible MN collateral values.
 
