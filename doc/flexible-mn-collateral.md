@@ -16,7 +16,9 @@ Implementation details
 The feature is activated using a spork "SPORK_18_FLEXIBLE_MN_COLLATERAL" which defines a timestamp after that the MN collateral can be chosen in the ranges
 defined below and block rewards for MN will be paid according to the payment schedule listed below. On testnet the feature is always enabled, on mainnet when ready to launch.
 ### Integration
-The feature will be built in its own branch and that codebase must be always downwards compatible with the current mainnet production code. This enable users to upgrade their wallets in advance and just "flip the switch" (activate the spork) to make it active on mainnet.
+The feature will be built in its own branch and that codebase must be always downwards compatible with the current mainnet production code. This own branch will be merged when tested to be working (payments work, its downward compatible stil).
+
+This enable users to upgrade their wallets in advance and just "flip the switch" (activate the spork) to make it active on mainnet. 
 
 ### Masternode collateral ranges
 * The collateral can be chosen in the range listed below with decimals being not considered - to stop people from taking their nodes offline too often
