@@ -1,5 +1,5 @@
 
-Tiered MN feature
+Tiered Karmanode feature
 =====================
 
 
