@@ -12,7 +12,7 @@ This feature allows KN holders to chose the KN collateral out of a list of tiers
 Implementation details
 ---------------------
 
-The feature is activated using a spork "SPORK_18_TIERED_MN" which defines a block timestamp after the collateral can be in the tier range defined below and block rewards for MN will be paid according to the payment schedule listed below. On testnet the feature is always enabled, on mainnet when ready to launch.
+The feature is activated using a spork "SPORK_18_TIERED_KN" which defines a block timestamp after the collateral can be in the tier range defined below and block rewards for KN will be paid according to the payment schedule listed below. On testnet the feature is always enabled, on mainnet when ready to launch.
 
 ### Integration
 The feature will be built in its own branch and that codebase must be always downwards compatible with the current mainnet production code. This own branch will be merged to master when tested positive to be working (KN payments work, its downward compatible still etc.).
