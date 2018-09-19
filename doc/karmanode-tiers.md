@@ -24,7 +24,7 @@ This enables users to upgrade their wallets in advance to the new release with t
 ### Karmanode reward payments
 After this feature is active, the KN payments will be multiplied by a multiplier defined below:
 
-| Tier # | MN Collateral | Block reward multiplier |
+| Tier # | KN Collateral | Block reward multiplier |
 |--------|---------------|-------------------------|
 | 1      | 3k OHMC       | x 1                     |
 | 2      | 60k OHMC      | x 20                    |
