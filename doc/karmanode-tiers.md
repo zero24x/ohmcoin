@@ -41,7 +41,7 @@ FAQ
 
 Testing checklist
 ---------------------
-1. Downwards compatibility: When the spork to activate this feature is not active, are the old KN payments blocks being accepted by the wallet still? Is it impossible to create KN with other collateral values than the only 1 allowed collateral before the spokr becomes active?
+1. Downwards compatibility: When the spork to activate this feature is not active, are the old KN payments blocks being accepted by the wallet still? Is it impossible to create KN with other collateral values than the only 1 allowed collateral before the spork becomes active?
 2. After spork: Is it possible to create KN with collaterals with collaterals only in the defined ranges?
 3. After spork: GUI and Console: Is the KN collateral value displayed in the KN lists in wallet GUI & the console output?
 4. After spork: Payments: Are the KNs being paid according to the formula correctly including decimals?
