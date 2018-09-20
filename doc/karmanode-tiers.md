@@ -27,8 +27,9 @@ After this feature is active, the KN payments will be multiplied by a multiplier
 | Tier # | KN Collateral | Block reward multiplier |
 |--------|---------------|-------------------------|
 | 1      | 3k OHMC       | x 1                     |
-| 2      | 60k OHMC      | x 20                    |
-| 3      | 900k OHMC     | x 300                   |
+| 2      | 10k OHMC      | x 10                    |
+| 3      | 50k OHMC      | x 50                    |
+| 4      | 100k OHMC     | x 100                   |
 
 FAQ
 ---------------------
